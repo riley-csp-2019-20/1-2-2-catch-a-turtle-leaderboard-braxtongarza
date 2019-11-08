@@ -1,0 +1,5 @@
+brax,8
+& "C:/Program Files (x86)/Python37-32/python.exe" c:/Users/braxton83221/Desktop/python/122braxton.py,8
+this better work,9
+braxton& "C:/Program Files (x86)/Python37-32/python.exe" c:/Users/braxton83221/Desktop/python/122braxton.py,6
+brandon,8
